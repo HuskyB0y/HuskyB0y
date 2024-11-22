@@ -1,2 +1,2 @@
-print("hello from the repositor!y")
+print("hello from the repository!")
 
